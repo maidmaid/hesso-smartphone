@@ -1,0 +1,16 @@
+Général:
+1) Diagramme de classes
+2) PowerPoint
+
+Pour SB
+1) Quand tu valides quand y'a pas de mails/numéros -> big red message in the console
+2) Tu peux faire Afficher même si t'as pas sélectionner un contact. A corriger
+3) Y'a un soucis de refresh : si t'affiches un contact, tu ajoutes un mails par exemple, tu l'effaces, puis tu quitte, tu reaffiches le contact
+4) Améliorer les interfaces au niveau smartphone (disable les deux boutons à coté de home, etc...)
+
+Pour DM
+1) Liaison "d'écriture" entre Battle Space Key et les contacts
+2) Afficher des messages dans les catch des try/catch de Battle Space Key
+
+Autres:
+1) dossier Images à utiliser dans les bons packages et non à la racine du projet

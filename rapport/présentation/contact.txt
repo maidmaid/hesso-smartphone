@@ -1,0 +1,22 @@
+ContactManager
+- save et load
+- Dans le save : tous le code
+- Dans le load : tous le code, en expliquant le addAll(...) + explication sur la vérification de l'existante du fichier
+- getOwner, checkOwner, et checkOwner dans le contructeur
+
+Contact
+- toString : expliquer la surchage, l'affichage spécial pour le owner avec le htmt, expliquer pourquoi on fait ça (PageMainContact.refreshListContact())
+
+
+NumberType
+- expliquer le getNumberType
+- Utilisé dans Number (type)
+- Création d'une combobox avec l'énum : PageAddContact l.115 
+- Récupération d'un index : PageAddContact l.195
+- Définir un élément dans une combolist avec l'énum PageShowContact l.164
+
+Améliorations
+- Page add et show en une seule
+- Ajouter des photos aux contacts
+- Rechercher 
+- ...
